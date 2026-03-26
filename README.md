@@ -78,4 +78,4 @@ This analysis provides insights that can support:
 
 ## 📬 Contact
 Created by **Gianpierre Rios**  
-For questions or collaboration opportunities, feel free to reach out via LinkedIn or e
+For questions or collaboration opportunities, feel free to reach out via LinkedIn or email - gianpierre97@gmail.com
